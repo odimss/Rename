@@ -1,0 +1,33 @@
+# Privacy Policy
+
+**Effective Date:** 1 April 2026
+
+**Lily's Assistant Bot** respects your privacy. This policy explains what information we collect and how it is used.
+
+## 1. Information We Collect
+- **Facebook Page Data:** Page ID, page posts, comments, and engagement metrics.
+- **Tokens:** Page Access Tokens and User Tokens (used only for API access).
+
+## 2. How We Use Information
+- To post content and respond to comments on your Page.
+- To read engagement metrics and generate insights.
+- Tokens are used only for Facebook Graph API requests; they are never shared with third parties.
+
+## 3. Data Storage
+- Tokens may be cached locally in `.token_cache` for automation purposes.
+- No sensitive personal information from users is collected outside of Facebook Pages you own.
+
+## 4. Data Sharing
+- We do not sell, trade, or otherwise transfer your data to outside parties.
+- Only Facebook API is accessed using your Page tokens.
+
+## 5. Security
+- We take reasonable measures to protect your tokens and Page data.
+- You should store tokens securely and avoid committing them to public repositories.
+
+## 6. Changes to Privacy Policy
+- Updates may be made periodically. Continued use constitutes acceptance.
+
+---
+
+**Contact:** support@example.com
